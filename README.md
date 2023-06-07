@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as CTO @ [Outfund](https://out.fund/)
-- 🌱 I’m currently learning Go
 
 ### Languages
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
